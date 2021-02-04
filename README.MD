@@ -1,7 +1,7 @@
 
-<p align="center"> <img src="images/NEON_animated.gif" width="150"> </p>
+<p align="left"> <img src="images/NEON_animated.gif" width="300"> </p>
 
-[![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue).svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 A tool for automatically inferring rules aimed at identifying the occurrences of natural language patterns in software informal documentation.
 NEON provides a user-friendly GUI. Alternatively, it can also be used programmatically by exploiting its API.  
@@ -24,12 +24,14 @@ Please add these jars and ```NEON.jar``` to the java classpath and run the ```or
 Here we provide a running example from command Line:
 
 Running example for Windows systems:
-```javaw -classpath "[MYPATH]/lib/*;[MYPATH]/NEON.jar" org.neon.main.Main
-  ```
+```
+javaw -classpath "[MYPATH]/lib/*;[MYPATH]/NEON.jar" org.neon.main.Main
+```
   
 Running example for Unix/Linux/MacOS systems:
-```javaw -classpath "[MYPATH]/lib/*:[MYPATH]/NEON.jar" org.neon.main.Main
-  ```
+```
+javaw -classpath "[MYPATH]/lib/*:[MYPATH]/NEON.jar" org.neon.main.Main
+```
 
 Where ```[MYPATH]``` is the path in which the contents of the zipped file have been extracted.
 
