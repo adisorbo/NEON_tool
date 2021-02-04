@@ -1,5 +1,5 @@
 
-<p align="center"><img src="images/NEON_animated.gif" width="300"></p> 
+<img src="images/NEON_animated.gif" width="400"> 
 
 [![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
@@ -37,7 +37,7 @@ Where ```[MYPATH]``` is the path in which the contents of the zipped file have b
 
 A step-by-step example on how to perform the training and testing phases by using the NEON's GUI is reported below.
 
-<img src="images/animated2.gif" width="700">
+<img src="images/animated2.gif" width="800">
  
 ## Using NEON's API
 
