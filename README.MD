@@ -6,7 +6,7 @@
 A tool for automatically inferring rules aimed at identifying the occurrences of natural language patterns in software informal documentation.
 NEON provides a user-friendly GUI. Alternatively, it can also be used programmatically by exploiting its API.  
 
-### Using NEON's Graphic User Interface (GUI)
+## Using NEON's Graphic User Interface (GUI)
 
 Please extract the contents of ```NEON.zip``` file in a folder of your choice.
 
@@ -39,11 +39,11 @@ A step-by-step example on how to perform the training and testing phases by usin
 
 <img src="images/animated2.gif" width="700">
  
-### Using NEON's API
+## Using NEON's API
 
 Add all the jars in the ```/lib``` folder of ```NEON.zip```  and ```NEON.jar``` to the classpath of the Java project.
 
-#### Training phase
+### Training phase
 
 A code example using the NEON's API for performing the training phase is reported below: 
 
@@ -127,11 +127,11 @@ public class Testing {
  
 
 
-#### notice:
+## Notice:
 
 - JDK 13 (or higher) is required to run/use the tool
 
-### License
+## License
 
 ```
 NEON automatically infers rules for identifying natural language 
