@@ -1,5 +1,5 @@
 
-<img src="images/NEON_animated.gif" width="300"> 
+<p align="center"><img src="images/NEON_animated.gif" width="300"></p> 
 
 [![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
