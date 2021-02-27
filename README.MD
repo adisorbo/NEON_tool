@@ -47,7 +47,7 @@ Add all the jars in the ```/lib``` folder of ```NEON.zip```  and ```NEON.jar``` 
 
 A code example using the NEON's API for performing the training phase is reported below: 
 
-```
+```java
 import java.io.File;
 import java.util.ArrayList;
 
@@ -100,7 +100,7 @@ public class Training {
 A code example using the NEON's API for performing the testing phase is reported below:
 
 
-```
+```java
 import java.io.File;
 import java.util.ArrayList;
 
