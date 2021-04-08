@@ -158,6 +158,7 @@ Di Sorbo Andrea, Sebastiano Panichella, Aaron Visaggio, Di Massimiliano Di Penta
 
 **To cite this work:**
 
+```
 @ARTICLE{8769918,
 
   author={A. {Di Sorbo} and S. {Panichella} and C. A. {Visaggio} and M. {Di Penta} and G. {Canfora} and H. C. {Gall}},
@@ -175,4 +176,5 @@ Di Sorbo Andrea, Sebastiano Panichella, Aaron Visaggio, Di Massimiliano Di Penta
   pages={1-1},
   
   doi={10.1109/TSE.2019.2930519}}
+  ```
 
