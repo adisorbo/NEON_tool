@@ -160,21 +160,13 @@ Di Sorbo Andrea, Sebastiano Panichella, Aaron Visaggio, Di Massimiliano Di Penta
 
 ```
 @ARTICLE{8769918,
-
   author={A. {Di Sorbo} and S. {Panichella} and C. A. {Visaggio} and M. {Di Penta} and G. {Canfora} and H. C. {Gall}},
-  
   journal={IEEE Transactions on Software Engineering}, 
-  
   title={Exploiting Natural Language Structures in Software Informal Documentation}, 
-  
   year={2019},
-  
   volume={},
-  
   number={},
-  
   pages={1-1},
-  
   doi={10.1109/TSE.2019.2930519}}
   ```
 
