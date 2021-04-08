@@ -8,7 +8,7 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 ## Using NEON's Graphic User Interface (GUI)
 
-Please extract the contents of ```NEON.zip``` file in a folder of your choice.
+Please clone the NEON repository in a local folder of your choice.
 
 The tool uses the following open source Java libraries: 
 - version 3.4.1 of the Stanford CoreNLP library 
@@ -17,7 +17,7 @@ The tool uses the following open source Java libraries:
 - version 4.4.2 of the simplenlg library 
 - version 1.0.1 of the ws4j library 
 
-You can find the needed jar files for running the tool in the ```/lib``` folder contained in the ```NEON.zip``` file
+You can find the needed jar files for running the tool in the ```/lib``` folder of the cloned repository.
 
 Please add these jars and ```NEON.jar``` to the java classpath and run the ```org.neon.main.Main``` class.
 
@@ -33,7 +33,7 @@ Running example for Unix/Linux/MacOS systems:
 javaw -classpath "[MYPATH]/lib/*:[MYPATH]/NEON.jar" org.neon.main.Main
 ```
 
-Where ```[MYPATH]``` is the path in which the contents of the zipped file have been extracted.
+Where ```[MYPATH]``` is the local path in which the repository has been cloned.
 
 A step-by-step example on how to perform the training and testing phases by using the NEON's GUI is reported below.
 
@@ -41,7 +41,7 @@ A step-by-step example on how to perform the training and testing phases by usin
  
 ## Using NEON's API
 
-Add all the jars in the ```/lib``` folder of ```NEON.zip```  and ```NEON.jar``` to the classpath of the Java project.
+Add all the jars contained in the ```/lib``` folder and ```NEON.jar``` to the classpath of the Java project.
 
 ### Training phase
 
