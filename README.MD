@@ -25,12 +25,12 @@ Here we provide a running example from command Line:
 
 Running example for Windows systems:
 ```
-javaw -classpath "[MYPATH]/lib/*;[MYPATH]/NEON.jar" org.neon.main.Main
+javaw -classpath "[MYPATH]/NEON_tool/lib/*;[MYPATH]/NEON_tool/NEON.jar" org.neon.main.Main
 ```
   
 Running example for Unix/Linux/MacOS systems:
 ```
-javaw -classpath "[MYPATH]/lib/*:[MYPATH]/NEON.jar" org.neon.main.Main
+javaw -classpath "[MYPATH]/NEON_tool/lib/*:[MYPATH]/NEON_tool/NEON.jar" org.neon.main.Main
 ```
 
 Where ```[MYPATH]``` is the local path in which the repository has been cloned.
