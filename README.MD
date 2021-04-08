@@ -152,4 +152,19 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>. 
 ```
 
+## References
+
+Di Sorbo Andrea, Sebastiano Panichella, Aaron Visaggio, Di Massimiliano Di Penta, Canfora Gerardo, and Harald Gall:  Exploiting Natural Language Structures in Software Informal Documentation .  Transactions on Software Engineering (TSE) Journal.  https://ieeexplore.ieee.org/document/8769918
+
+**To cite this work:**
+
+@ARTICLE{8769918,
+  author={A. {Di Sorbo} and S. {Panichella} and C. A. {Visaggio} and M. {Di Penta} and G. {Canfora} and H. C. {Gall}},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Exploiting Natural Language Structures in Software Informal Documentation}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TSE.2019.2930519}}
 
