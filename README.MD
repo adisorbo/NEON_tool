@@ -127,7 +127,7 @@ public class Testing {
  
 
 
-## Notice:
+## Notice
 
 - JDK 13 (or higher) is required to run/use the tool
 
