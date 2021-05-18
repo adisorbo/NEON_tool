@@ -6,6 +6,10 @@
 A tool for automatically inferring rules aimed at identifying the occurrences of natural language patterns in software informal documentation.
 NEON provides a user-friendly GUI. Alternatively, it can also be used programmatically by exploiting its API.  
 
+## NEON's architecture
+
+<img src="images/NEON_architecture.gif" width="400"> 
+
 ## Using NEON's Graphic User Interface (GUI) 
 
 Please clone the NEON repository in a local folder of your choice.
