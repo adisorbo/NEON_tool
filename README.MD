@@ -10,6 +10,31 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 <img src="images/NEON_architecture.png"> 
 
+In general, to enable the automated analysis of software informal documents, two main phases are required: 
+- the *training phase*, in which a a set of software artifacts of a specific type (*e.g.,* app reviews or issue reports) is inspected to identify rules for capturing recurrent NLP patterns; and 
+- the *testing phase*, in which the inferred rules are leveraged to recognize the information of interest in a different corpus of software artifacts. 
+
+NEON encompasses two independent software components that allow automating both phases: 
+1. the **Patterns Finder** automatically identifies relevant rules for detecting natural language patterns occurring in a set of unstructured texts (*i.e., training set*)
+2. the **Tagger** exploits the rules stored in an XML document, to automatically label the relevant information appearing in a different set of natural language documents (*i.e., test set).
+
+An example rule able to recognize a grammatical structure in a generic sentence is reported below: 
+
+```xml
+<NLP_heuristic>
+    <sentence type="declarative"/>
+    <type>aux/neg/dobj/nsubj</type>
+    <text>[something] [auxiliary] not open [something].</text>
+    <conditions>
+        <condition>aux.governor="open"</condition>
+        <condition>aux.governor=neg.governor</condition>
+        <condition>neg.governor=dobj.governor</condition>
+        <condition>dobj.governor=nsubj.governor</condition>
+    </conditions>
+    <sentence_class>PROBLEM DISCOVERY</sentence_class>
+</NLP_heuristic>
+```
+
 ## Using NEON's Graphic User Interface (GUI) 
 
 Please clone the NEON repository in a local folder of your choice.
