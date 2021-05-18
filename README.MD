@@ -185,7 +185,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Exploiting Natural Language Structures in Software Informal Documentation](https://ieeexplore.ieee.org/document/8769918). IEEE Transactions on Software Engineering (TSE) Journal.
 
-**If you use this tool please cite the following paper:**
+**If you use this tool in your research, please cite the following paper:**
 
 ```
 @ARTICLE{8769918,
