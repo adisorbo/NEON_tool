@@ -16,7 +16,7 @@ In general, to enable the automated analysis of software informal documents, two
 
 NEON encompasses two independent software components that allow automating both phases: 
 1. the **Patterns Finder** automatically identifies relevant rules for detecting natural language patterns occurring in a set of unstructured texts (*i.e., training set*);
-2. the **Tagger** exploits the rules stored in an XML document, to automatically label the relevant information appearing in a different set of natural language documents (*i.e., test set).
+2. the **Tagger** exploits the rules stored in an XML document, to automatically label the relevant information appearing in a different set of natural language documents (*i.e., test set*).
 
 An example rule able to recognize a grammatical structure in a generic sentence is reported below: 
 
