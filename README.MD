@@ -8,7 +8,7 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 ## NEON's architecture
 
-<img src="images/NEON_architecture.png" width="400"> 
+<img src="images/NEON_architecture.png"> 
 
 ## Using NEON's Graphic User Interface (GUI) 
 
