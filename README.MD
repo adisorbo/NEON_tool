@@ -8,17 +8,17 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 ## Contents
 ---
-- [NEON's architecture](##NEON's architecture)
+- [NEON's architecture](#-NEON architecture)
 - [Using NEON's Graphic User Interface (GUI)](##Using NEON's Graphic User Interface)
 - [Using NEON's API](##Using NEON's API)
-  - [Training phase](##Training phase)
-  - [Testing phase](##Testing phase)
+  - [Training phase](###Training phase)
+  - [Testing phase](###Testing phase)
 - [Notice](#Notice)
 - [License](#License)
 - [References](#References) 
 
 
-## NEON's architecture
+## NEON architecture
 
 <img src="images/NEON_architecture.png"> 
 
