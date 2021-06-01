@@ -8,11 +8,11 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 ## Contents
 ---
-- [NEON's architecture](#-NEON architecture)
-- [Using NEON's Graphic User Interface (GUI)](##Using NEON's Graphic User Interface)
-- [Using NEON's API](##Using NEON's API)
-  - [Training phase](###Training phase)
-  - [Testing phase](###Testing phase)
+- [NEON architecture](#NEON-architecture)
+- [Using Graphic User Interface](##Using-Graphic-User-Interface)
+- [Using API](##Using-API)
+  - [Training phase](###Training-phase)
+  - [Testing phase](###Testing-phase)
 - [Notice](#Notice)
 - [License](#License)
 - [References](#References) 
@@ -47,7 +47,7 @@ An example rule able to recognize a grammatical structure in a generic sentence 
 </NLP_heuristic>
 ```
 
-## Using NEON's Graphic User Interface (GUI) 
+## Using Graphic User Interface 
 
 Please clone the NEON repository in a local folder of your choice.
 
@@ -80,7 +80,7 @@ A step-by-step example on how to perform the training and testing phases by usin
 
 <img src="images/animated2.gif" width="800">
  
-## Using NEON's API
+## Using API
 
 Add all the jars contained in the ```/lib``` folder and ```NEON.jar``` to the classpath of the Java project.
 
