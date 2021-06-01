@@ -9,10 +9,10 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 ## Contents
 ---
 - [NEON architecture](#NEON-architecture)
-- [Using Graphic User Interface](##Using-Graphic-User-Interface)
-- [Using API](##Using-API)
-  - [Training phase](###Training-phase)
-  - [Testing phase](###Testing-phase)
+- [Using Graphic User Interface](#Using-Graphic-User-Interface)
+- [Using API](#Using-API)
+  - [Training phase](##Training-phase)
+  - [Testing phase](##Testing-phase)
 - [Notice](#Notice)
 - [License](#License)
 - [References](#References) 
