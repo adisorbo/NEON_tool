@@ -1,0 +1,9 @@
+<!ELEMENT heuristics (NLP_heuristic)*>
+	<!ELEMENT NLP_heuristic (sentence?, type, text, conditions, sentence_class)>
+	<!ELEMENT sentence EMPTY>
+	<!ATTLIST sentence type (declarative|interrogative|all) #REQUIRED>
+	<!ELEMENT type (#PCDATA)>
+	<!ELEMENT text (#PCDATA)>
+	<!ELEMENT conditions (condition)+>
+	<!ELEMENT condition (#PCDATA)>
+	<!ELEMENT sentence_class (#PCDATA)>
