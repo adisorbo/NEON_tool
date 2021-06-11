@@ -1,7 +1,7 @@
 
 <img src="images/NEON_animated.gif" width="400"> 
 
-[![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-green.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![License: MIT](https://img.shields.io/badge/license-GPL%20(%3E%3D%203)-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 A tool for automatically inferring rules aimed at identifying the occurrences of natural language patterns in software informal documentation.
 NEON provides a user-friendly GUI. Alternatively, it can also be used programmatically by exploiting its API.  
