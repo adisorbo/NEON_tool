@@ -15,6 +15,7 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
   - [Testing phase](#Testing-phase)
 - [Notice](#Notice)
 - [License](#License)
+- [Related tools](#Related-tools)
 - [References](#References) 
 
 
@@ -192,6 +193,13 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>. 
 ```
+
+## Related tools
+
+The following tools all leverage _intention mining_ in specific contexts (i.e., development emails, app reviews). We observe that such tools, though effective, have customization and adaptability limitations. NEON overcomes these limitations by providing high adaptability and offering the opportunity to use a single solution for classifying/extracting useful information from different types of software artifacts.
+- [DECA](https://spanichella.github.io/tools.html#deca)
+- [ARdoc](https://spanichella.github.io/tools.html#ardoc)
+
 
 ## References
 
