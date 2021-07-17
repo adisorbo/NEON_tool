@@ -79,8 +79,8 @@ Where ```[MYPATH]``` is the local path in which the repository has been cloned.
 
 A step-by-step example on how to perform the training and testing phases by using the NEON's GUI is reported below.
 
-<img src="images/animated2.gif" width="800">
- 
+https://user-images.githubusercontent.com/17591346/126037138-41e32a8f-ce68-4992-bbfd-63ea82fb2890.mp4
+
 ## Using API
 
 Add all the jars contained in the ```/lib``` folder and ```NEON.jar``` to the classpath of the Java project.
