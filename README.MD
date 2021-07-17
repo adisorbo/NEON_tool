@@ -29,13 +29,13 @@ NEON encompasses two independent software components:
 
 In general, to enable the automated analysis of software informal documents, two main phases are required: 
 - the *training phase*, in which a a set of software artifacts of a specific type (*e.g.,* app reviews or issue reports) is inspected to identify rules for capturing recurrent NLP patterns. In particular, this phase encompasses the following steps:
-    - The end-user load a set of software artifacts, (i.e., training documents) (point ① in the above Figure)
+    - The end-user provides a set of software artifacts, (i.e., training documents) (point ① in the above Figure).
     - The **Parser** preprocesses the training documents and generates the semantic graph of each sentence present in these documents (point ② in the above Figure).
-    - The **PathsFinder** (i) analyzes the semantic graphs generated in the previous step, (ii) finds all recurrent paths in these graphs, and (iii) outputs the rules (in XML format) able to identify such paths in unseen sentences (point ③ in the above Figure).
+    - The **PathsFinder** (i) analyzes the semantic graphs generated in the previous step, (ii) finds all recurrent paths in these graphs, and (iii) outputs the rules (in XML format) able to identify such paths (point ③ in the above Figure).
 - The *testing phase*, in which the inferred rules are leveraged to recognize the information of interest in a different corpus of software artifacts. More specifically, this phase encompasses the following steps:
     - The end-user provides a set of software artifacts different from the training documents (point ④ in the above Figure)
-    - The **Parser** performs sentence splitting, tokenization, and, for each sentence, it  generates the Stanford  Dependencies (SD) representation (point ⑤ in the above Figure)
-    - The **Classifier** leverages such a representation and the set of rules (defined in an XML file) to detect the presence of text structures that match one (or more) of the defined rules (point ⑥ in the above Figure)
+    - The **Parser** performs sentence splitting, tokenization, and, for each sentence, it generates the Stanford  Dependencies (SD) representation (point ⑤ in the above Figure).
+    - The **Classifier** leverages such a representation and the set of rules (defined in an XML file) to detect the presence of text structures that match one (or more) of the defined rules (point ⑥ in the above Figure).
     - All the recognized sentences (i.e., containing  one  or  more  relevant NL patterns) are highlighted using different colors for different categories (point ⑦ in the above Figure).
 
 An example rule able to recognize a grammatical structure in a generic sentence is reported below: 
