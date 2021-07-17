@@ -21,7 +21,7 @@ NEON provides a user-friendly GUI. Alternatively, it can also be used programmat
 
 ## NEON architecture
 
-<img src="images/NEON_architecture.png"> 
+<img src="images/Architecture.png"> 
 
 NEON encompasses two independent software components: 
 1. the **Patterns Finder** automatically identifies relevant rules for detecting natural language patterns occurring in a set of unstructured texts (*i.e., training set*);
