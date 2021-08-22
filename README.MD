@@ -210,7 +210,7 @@ The following tools all leverage _intention mining_ in specific contexts (i.e., 
 
 ## References
 
-- A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Exploiting Natural Language Structures in Software Informal Documentation](https://ieeexplore.ieee.org/document/8769918). IEEE Transactions on Software Engineering (TSE) Journal.
+- A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Exploiting Natural Language Structures in Software Informal Documentation](https://ieeexplore.ieee.org/document/8769918). In IEEE Transactions on Software Engineering, vol. 47, no. 8, pages 1587-1604, 2021.
 - A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Development Emails Content Analyzer: Intention Mining in Developer Discussions](https://ieeexplore.ieee.org/abstract/document/7371991). In Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering (ASE 2015). Lincoln, Nebraska, pages 12-23, 2015.
 
 **If you use this tool in your research, please cite the following paper:**
