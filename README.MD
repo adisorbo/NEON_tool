@@ -217,13 +217,13 @@ The following tools all leverage _intention mining_ in specific contexts (i.e., 
 
 ```
 @ARTICLE{8769918,
-  author={A. {Di Sorbo} and S. {Panichella} and C. A. {Visaggio} and M. {Di Penta} and G. {Canfora} and H. C. {Gall}},
+  author={Di Sorbo, Andrea and Panichella, Sebastiano and Visaggio, Corrado A. and Di Penta, Massimiliano and Canfora, Gerardo and Gall, Harald C.},
   journal={IEEE Transactions on Software Engineering}, 
   title={Exploiting Natural Language Structures in Software Informal Documentation}, 
-  year={2019},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2021},
+  volume={47},
+  number={8},
+  pages={1587-1604},
   doi={10.1109/TSE.2019.2930519}}
-  ```
+```
 
