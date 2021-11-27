@@ -213,9 +213,18 @@ The following tools all leverage _intention mining_ in specific contexts (i.e., 
 - A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Exploiting Natural Language Structures in Software Informal Documentation](https://ieeexplore.ieee.org/document/8769918). In IEEE Transactions on Software Engineering, vol. 47, no. 8, pages 1587-1604, 2021.
 - A. Di Sorbo, S. Panichella, C. A. Visaggio, M. Di Penta, G. Canfora, and H. C. Gall: [Development Emails Content Analyzer: Intention Mining in Developer Discussions](https://ieeexplore.ieee.org/abstract/document/7371991). In Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering (ASE 2015). Lincoln, Nebraska, pages 12-23, 2015.
 
-**If you use this tool in your research, please cite the following paper:**
+**If you use this tool in your research, please cite the following papers:**
 
 ```
+@INPROCEEDINGS{9609223,
+  author={Di Sorbo, Andrea and Visaggio, Corrado A. and Di Penta, Massimiliano and Canfora, Gerardo and Panichella, Sebastiano},
+  booktitle={2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
+  title={An NLP-based Tool for Software Artifacts Analysis}, 
+  year={2021},
+  pages={569-573},
+  doi={10.1109/ICSME52107.2021.00058}
+}
+
 @ARTICLE{8769918,
   author={Di Sorbo, Andrea and Panichella, Sebastiano and Visaggio, Corrado A. and Di Penta, Massimiliano and Canfora, Gerardo and Gall, Harald C.},
   journal={IEEE Transactions on Software Engineering}, 
@@ -224,6 +233,7 @@ The following tools all leverage _intention mining_ in specific contexts (i.e., 
   volume={47},
   number={8},
   pages={1587-1604},
-  doi={10.1109/TSE.2019.2930519}}
+  doi={10.1109/TSE.2019.2930519}
+}
 ```
 
